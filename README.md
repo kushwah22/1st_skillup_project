@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My HTML Project File</title>
+    
 </head>
 <body>
     <h1>Hello, World!</h1>
